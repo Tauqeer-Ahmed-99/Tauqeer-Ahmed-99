@@ -79,7 +79,8 @@ You can click the Preview link to take a look at your changes.
 
 ## ⚡ Fun Facts
 
-- 🥇 Interviewed **30+ React developers** and mentored growing teams  
+- 🥇 Interviewed **30+ React developers** and mentored growing teams
+- ⚛️ Lead 3 **React & React Native** Trainings @ *Ingram Micro* for the batch of 30+ Developers 
 - 🎬 Love **coding at night**  
 - 💬 Motto: *“Build more, talk less.”*  
 - ☕ Coffee + Code = Productivity  
