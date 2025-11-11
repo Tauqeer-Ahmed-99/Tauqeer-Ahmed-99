@@ -29,6 +29,23 @@ You can click the Preview link to take a look at your changes.
 
 ---
 
+
+## 🌍 Connect with Me
+
+<p align="center">
+  <a href="https://linkedin.com/in/tauqeerahmed99">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:tauqueerrkhan@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://tauqeer-portfolio-green.vercel.app">
+    <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+</p>
+
+---
+
 ## 🧰 Tech Stack
 
 <p align="center">
@@ -60,22 +77,6 @@ You can click the Preview link to take a look at your changes.
 |----------|--------------|------|
 | [**Control Nest**](https://github.com/Tauqeer-Ahmed-99/control-nest) | Mobile app for IoT device control & automation | React Native, Expo, IoT |
 | [**AutoPi Hub**](https://github.com/Tauqeer-Ahmed-99/autopi-hub) | Python FastAPI server for home automation | FastAPI, Raspberry Pi |
-
----
-
-## 🌍 Connect with Me
-
-<p align="center">
-  <a href="https://linkedin.com/in/tauqeerahmed99">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:tauqueerrkhan@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://tauqeer-portfolio-green.vercel.app">
-    <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
-</p>
 
 ---
 
