@@ -19,7 +19,9 @@ You can click the Preview link to take a look at your changes.
 ## 👨‍💻 About Me
 
 - 💼 Working at **Ingram Micro**
-- 💡 Building **CRM and PaaS platforms** using React, TypeScript, and Node.js  
+- 💡 Building **CRM and PaaS platforms** using React, TypeScript, and Node.js
+- 🥇 Interviewed **30+ React developers** and mentored growing teams
+- ⚛️ Lead 3 **React & React Native** Trainings @ *Ingram Micro* for the batch of 30+ Developers 
 - ⚙️ Creator of **Control Nest** & **AutoPi Hub** (IoT + Web)
 - 🌍 Based in **Mumbai, India**
 - 🌱 Exploring **Rust**, **Machine Learning**, and **IoT Edge Integrations**
@@ -79,8 +81,6 @@ You can click the Preview link to take a look at your changes.
 
 ## ⚡ Fun Facts
 
-- 🥇 Interviewed **30+ React developers** and mentored growing teams
-- ⚛️ Lead 3 **React & React Native** Trainings @ *Ingram Micro* for the batch of 30+ Developers 
 - 🎬 Love **coding at night**  
 - 💬 Motto: *“Build more, talk less.”*  
 - ☕ Coffee + Code = Productivity  
